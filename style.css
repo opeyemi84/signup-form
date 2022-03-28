@@ -1,0 +1,15 @@
+.container {
+  display: flex;
+}
+
+.content {
+  border: 1px solid red;
+}
+
+.form-inputs {
+  border: 1px solid blue;
+}
+
+.login {
+  border: 1px solid red;
+}
