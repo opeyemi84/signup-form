@@ -3,13 +3,40 @@
 }
 
 .content {
-  border: 1px solid red;
+  font-size: 32px;
+  font-weight: 500;
+  padding: 32px;
+  margin-top: 100px;
+}
+
+.do-this {
+  display: flex;
+  padding: 32px;
+  font-size: 32px;
+  font-weight: 900;
 }
 
 .form-inputs {
-  border: 1px solid blue;
+  display: flex;
+  margin-bottom: 20px;
+}
+.right-form {
+  padding: 32px;
+}
+
+.left-form {
+  padding: 32px;
 }
 
 .login {
-  border: 1px solid red;
+  padding: 32px;
+}
+
+button {
+  border: none;
+  background-color: #596d48;
+  color: white;
+  width: 150px;
+  height: 30px;
+  border-radius: 5px;
 }
